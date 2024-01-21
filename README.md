@@ -20,7 +20,8 @@ Script for a telegram bot that fetches media from a list of subreddits and sends
 
 ## How to Use
 1. Clone or Download the script.
-2. Configure the Config.ini file with your channel id,bot api and subreddits.
+2. install the requirements from the requirements.txt 
+3. Configure the Config.ini file with your channel id,bot api and subreddits.
 4. Set the Script to run at specified intervals on your local device or cloud.
 --- 
 #####  Notes
