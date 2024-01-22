@@ -26,3 +26,5 @@ Script for a telegram bot that fetches media from a list of subreddits and sends
 --- 
 #####  Notes
 Cache Folder stores the ids of already fetched post inorder to avoid reposts. 
+
+agniveshsp@gmail.com
